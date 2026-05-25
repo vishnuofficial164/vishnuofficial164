@@ -19,7 +19,7 @@ I recently transitioned from a Wireless Test Engineer role and am actively seeki
 
 ### 📜 Certification
 
-🏅 AWS Certified Solutions Architect – Associate
+🏅 AWS and Devops Certification 
 
 ### 💻 DevOps Projects
 
