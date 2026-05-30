@@ -1,63 +1,82 @@
-# Hi 👋, I'm Vishnu M
+# Hi, I'm Vishnu M 👋 — DevOps Engineer
 
-## 🚀 Aspiring DevOps Engineer | Open to Work
+![DevOps](https://img.shields.io/badge/DevOps-Engineer-blue?style=for-the-badge)
+![AWS](https://img.shields.io/badge/AWS-Solutions_Architect_Associate-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+![CCNA](https://img.shields.io/badge/Cisco-CCNA_Certified-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
+![Chennai](https://img.shields.io/badge/Location-Chennai,_India-green?style=for-the-badge)
 
-I recently transitioned from a Wireless Test Engineer role and am actively seeking Junior DevOps Engineer opportunities in Chennai and Remote locations.
+---
 
-### 🛠️ Skills
+## 👨‍💻 About Me
 
-- Linux
-- Git & GitHub
-- Jenkins
-- Docker
-- Kubernetes
-- AWS
-- Terraform
-- Ansible
-- CI/CD Pipelines
-- Shell Scripting
+> **DevOps Engineer** with **3.5+ years of IT experience** in Linux, Networking & Wireless RF Testing at **Sify Technologies**.  
+> Hands-on with CI/CD, Cloud Infrastructure, Containerization & Monitoring.  
+> Strong foundation in **Linux administration** and **networking** — skills that make DevOps second nature.
 
-### 📜 Certification
+- 🔭 Currently building: **Production-grade DevOps pipelines & AWS Cloud Infrastructure**
+- 🌱 Certified: **AWS Solutions Architect – Associate | CCNA**
+- 💬 Ask me about: **Docker, Kubernetes, Jenkins, Terraform, Ansible, AWS**
+- 📫 Reach me: [LinkedIn](https://linkedin.com/in/vishnureddy05)
+- 📍 Based in: **Chennai, India**
 
-🏅 AWS and Devops Certification 
+---
 
-### 💻 DevOps Projects
+## 🛠️ Tech Stack
 
-#### 1. CI/CD Pipeline using Jenkins, Docker & GitHub
-- Automated build and deployment process
-- Integrated GitHub Webhooks
-- Dockerized application deployment
+### ☁️ Cloud & Infrastructure
+![AWS](https://img.shields.io/badge/AWS-EC2%20%7C%20VPC%20%7C%20S3%20%7C%20IAM%20%7C%20RDS-FF9900?style=flat-square&logo=amazonaws)
+![Terraform](https://img.shields.io/badge/Terraform-IaC-7B42BC?style=flat-square&logo=terraform)
+![Ansible](https://img.shields.io/badge/Ansible-Automation-EE0000?style=flat-square&logo=ansible)
 
-#### 2. Kubernetes Deployment Project
-- Created Deployments and Services
-- Managed Pods and Scaling
-- Implemented Rolling Updates
+### 🐳 Containers & Orchestration
+![Docker](https://img.shields.io/badge/Docker-Containerization-2496ED?style=flat-square&logo=docker)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-Orchestration-326CE5?style=flat-square&logo=kubernetes)
 
-#### 3. Infrastructure Automation using Terraform
-- Provisioned AWS resources
-- Infrastructure as Code (IaC)
-- Automated cloud deployment
+### 🔄 CI/CD
+![Jenkins](https://img.shields.io/badge/Jenkins-CI%2FCD-D24939?style=flat-square&logo=jenkins)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-Automation-2088FF?style=flat-square&logo=githubactions)
 
-### 🌱 Currently Learning
+### 📊 Monitoring
+![Prometheus](https://img.shields.io/badge/Prometheus-Monitoring-E6522C?style=flat-square&logo=prometheus)
+![Grafana](https://img.shields.io/badge/Grafana-Dashboards-F46800?style=flat-square&logo=grafana)
 
-- Prometheus
-- Grafana
-- Advanced Kubernetes
-- AWS DevOps Services
+### 🐧 OS & Networking
+![Linux](https://img.shields.io/badge/Linux-Ubuntu%20%7C%20CentOS-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Nginx](https://img.shields.io/badge/Nginx-Web_Server-009639?style=flat-square&logo=nginx)
+![Bash](https://img.shields.io/badge/Bash-Scripting-4EAA25?style=flat-square&logo=gnubash)
 
-### 📫 Contact Me
+---
 
-📧 Email: Vishnu.official0506@gmail.com
+## 🚀 Featured Projects
 
-💼 LinkedIn:
-https://www.linkedin.com/in/vishnureddy05
+| Project | Description | Tech Stack |
+|---|---|---|
+| [🔄 CI/CD Pipeline](https://github.com/vishnuofficial164/cicd-pipeline-jenkins) | End-to-end pipeline: Code → Build → Test → Docker → K8s Deploy | Jenkins, GitHub, Docker, Kubernetes |
+| [📊 Monitoring Stack](https://github.com/vishnuofficial164/monitoring-prometheus-grafana) | Full monitoring with custom Grafana dashboards & alerts | Prometheus, Grafana, Node Exporter |
+| [☁️ AWS Infrastructure IaC](https://github.com/vishnuofficial164/terraform-aws-infrastructure) | Production-grade VPC, EC2, S3 provisioning via code | Terraform, Ansible, AWS |
+| [🐳 Docker Projects](https://github.com/vishnuofficial164/my-docker-project) | Dockerized apps — Node.js, Nginx, Apache, Ubuntu | Docker, Node.js, Nginx |
 
-### 🎯 Career Objective
+---
 
-To start my career as a DevOps Engineer and contribute to building scalable, automated, and reliable infrastructure using modern DevOps practices.
+## 📜 Certifications
 
-⭐ Always learning, building and improving.
-<!---
-vishnuofficial164/vishnuofficial164 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 🏆 **AWS Certified Solutions Architect – Associate**
+- 🏆 **Cisco CCNA — Networking**
+
+---
+
+## 📊 GitHub Stats
+
+![Vishnu's GitHub Stats](https://github-readme-stats.vercel.app/api?username=vishnuofficial164&show_icons=true&theme=tokyonight&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vishnuofficial164&layout=compact&theme=tokyonight&hide_border=true)
+
+---
+
+## 🤝 Connect With Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-vishnureddy05-0077B5?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/vishnureddy05)
+[![GitHub](https://img.shields.io/badge/GitHub-vishnuofficial164-181717?style=for-the-badge&logo=github)](https://github.com/vishnuofficial164)
+
+---
+
+*"Infrastructure as Code today, Scalable Systems tomorrow."* 🚀
