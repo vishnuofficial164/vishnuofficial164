@@ -1,8 +1,7 @@
 # Hi, I'm Vishnu M 👋 — DevOps Engineer
 
-![DevOps](https://img.shields.io/badge/DevOps-Engineer-blue?style=for-the-badge)
-![AWS](https://img.shields.io/badge/AWS-Solutions_Architect_Associate-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
-![CCNA](https://img.shields.io/badge/Cisco-CCNA_Certified-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
+![AWS & DevOps](https://img.shields.io/badge/AWS&DevOps-Engineer-blue?style=for-the-badge)
+
 ![Chennai](https://img.shields.io/badge/Location-Chennai,_India-green?style=for-the-badge)
 
 ---
@@ -13,11 +12,11 @@
 > Hands-on with CI/CD, Cloud Infrastructure, Containerization & Monitoring.  
 > Strong foundation in **Linux administration** and **networking** — skills that make DevOps second nature.
 
-- 🔭 Currently building: **Production-grade DevOps pipelines & AWS Cloud Infrastructure**
-- 🌱 Certified: **AWS Solutions Architect – Associate | CCNA**
-- 💬 Ask me about: **Docker, Kubernetes, Jenkins, Terraform, Ansible, AWS**
-- 📫 Reach me: [LinkedIn](https://linkedin.com/in/vishnureddy05)
-- 📍 Based in: **Chennai, India**
+- 🔭 Currently building: Production-grade DevOps pipelines & AWS Cloud Infrastructure
+🌱 Certified:CCNA(Besant Technologies) | Trained: AWS & DevOps (SLA Institute)
+💬 Ask me about: Docker, Kubernetes, Jenkins, Terraform, Ansible, AWS
+📫 Reach me: LinkedIn
+📍 Based in: Chennai, India
 
 ---
 
@@ -60,8 +59,11 @@
 
 ## 📜 Certifications
 
-- 🏆 **AWS Certified Solutions Architect – Associate**
-- 🏆 **Cisco CCNA — Networking**
+ • 📘 AWS & DevOps Course (SLA Institute,  Chennai).
+
+ • 🏆 Cisco CCNA — Networking (Besant Technologies)
+
+
 
 ---
 
