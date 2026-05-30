@@ -51,10 +51,10 @@
 
 | Project | Description | Tech Stack |
 |---|---|---|
-| [🔄 CI/CD Pipeline](https://github.com/vishnuofficial164/cicd-pipeline-jenkins) | End-to-end pipeline: Code → Build → Test → Docker → K8s Deploy | Jenkins, GitHub, Docker, Kubernetes |
-| [📊 Monitoring Stack](https://github.com/vishnuofficial164/monitoring-prometheus-grafana) | Full monitoring with custom Grafana dashboards & alerts | Prometheus, Grafana, Node Exporter |
-| [☁️ AWS Infrastructure IaC](https://github.com/vishnuofficial164/terraform-aws-infrastructure) | Production-grade VPC, EC2, S3 provisioning via code | Terraform, Ansible, AWS |
-| [🐳 Docker Projects](https://github.com/vishnuofficial164/my-docker-project) | Dockerized apps — Node.js, Nginx, Apache, Ubuntu | Docker, Node.js, Nginx |
+| 🔄 CI/CD Pipeline | End-to-end pipeline: Code → Build → Test → Docker → K8s Deploy | Jenkins, GitHub, Docker, Kubernetes |
+| 📊 Monitoring Stack | Full monitoring with custom Grafana dashboards & alerts | Prometheus, Grafana, Node Exporter |
+| ☁️ AWS Infrastructure IaC | Production-grade VPC, EC2, S3 provisioning via code | Terraform, Ansible, AWS |
+| 🐳 Docker Projects | Dockerized apps — Node.js, Nginx, Apache, Ubuntu | Docker, Node.js, Nginx |
 
 ---
 
@@ -80,3 +80,4 @@
 ---
 
 *"Infrastructure as Code today, Scalable Systems tomorrow."* 🚀
+
